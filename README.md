@@ -7,7 +7,7 @@ analyzes the results to separate local congestion from internet-side delay.
 ## Files
 - network_monitor.py: the monitoring script
 - network_log.csv: collected data (2,034 data points)
-- Project summary PDF: method, findings and conclusion
+- Project summary PDF: method, findings , conclusion and Screenshots
 - Screenshots: latency charts, packet loss table, pivot table
 
 ## Tools
