@@ -1,0 +1,2035 @@
+timestamp,target_name,host,status,latency_ms
+2026-11-25 07:44:30,Router (gateway),192.168.1.1,OK,11.0
+2026-11-25 07:44:30,Google DNS,8.8.8.8,LOST,
+2026-11-25 07:44:30,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:44:30,Google,google.com,OK,16.0
+2026-11-25 07:44:30,YouTube,youtube.com,OK,14.0
+2026-11-25 07:44:30,GitHub,github.com,OK,28.0
+2026-11-25 07:44:39,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:44:39,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:44:39,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:44:39,Google,google.com,OK,15.0
+2026-11-25 07:44:39,YouTube,youtube.com,OK,15.0
+2026-11-25 07:44:39,GitHub,github.com,OK,29.0
+2026-11-25 07:44:44,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:44:44,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:44:44,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:44:44,Google,google.com,OK,15.0
+2026-11-25 07:44:44,YouTube,youtube.com,OK,16.0
+2026-11-25 07:44:44,GitHub,github.com,OK,52.0
+2026-11-25 07:44:50,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:44:50,Google DNS,8.8.8.8,OK,23.0
+2026-11-25 07:44:50,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:44:50,Google,google.com,OK,16.0
+2026-11-25 07:44:50,YouTube,youtube.com,OK,15.0
+2026-11-25 07:44:50,GitHub,github.com,OK,27.0
+2026-11-25 07:44:55,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:44:55,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:44:55,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:44:55,Google,google.com,OK,14.0
+2026-11-25 07:44:55,YouTube,youtube.com,OK,16.0
+2026-11-25 07:44:55,GitHub,github.com,OK,28.0
+2026-11-25 07:45:00,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:00,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:45:00,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:45:00,Google,google.com,OK,14.0
+2026-11-25 07:45:00,YouTube,youtube.com,OK,14.0
+2026-11-25 07:45:00,GitHub,github.com,OK,28.0
+2026-11-25 07:45:05,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:05,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:45:05,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:45:05,Google,google.com,OK,14.0
+2026-11-25 07:45:05,YouTube,youtube.com,OK,16.0
+2026-11-25 07:45:05,GitHub,github.com,OK,27.0
+2026-11-25 07:45:11,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:11,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:45:11,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:45:11,Google,google.com,OK,15.0
+2026-11-25 07:45:11,YouTube,youtube.com,OK,15.0
+2026-11-25 07:45:11,GitHub,github.com,OK,28.0
+2026-11-25 07:45:16,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:16,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:45:16,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:45:16,Google,google.com,OK,14.0
+2026-11-25 07:45:16,YouTube,youtube.com,OK,16.0
+2026-11-25 07:45:16,GitHub,github.com,OK,29.0
+2026-11-25 07:45:21,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:45:21,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:45:21,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:45:21,Google,google.com,OK,15.0
+2026-11-25 07:45:21,YouTube,youtube.com,OK,14.0
+2026-11-25 07:45:21,GitHub,github.com,OK,27.0
+2026-11-25 07:45:26,Router (gateway),192.168.1.1,OK,22.0
+2026-11-25 07:45:26,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 07:45:26,Cloudflare DNS,1.1.1.1,OK,46.0
+2026-11-25 07:45:26,Google,google.com,OK,14.0
+2026-11-25 07:45:26,YouTube,youtube.com,OK,16.0
+2026-11-25 07:45:26,GitHub,github.com,OK,28.0
+2026-11-25 07:45:32,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:45:32,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:45:32,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:45:32,Google,google.com,OK,15.0
+2026-11-25 07:45:32,YouTube,youtube.com,OK,23.0
+2026-11-25 07:45:32,GitHub,github.com,OK,27.0
+2026-11-25 07:45:37,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:37,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:45:37,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:45:37,Google,google.com,OK,15.0
+2026-11-25 07:45:37,YouTube,youtube.com,OK,16.0
+2026-11-25 07:45:37,GitHub,github.com,OK,28.0
+2026-11-25 07:45:42,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:42,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:45:42,Cloudflare DNS,1.1.1.1,OK,58.0
+2026-11-25 07:45:42,Google,google.com,OK,15.0
+2026-11-25 07:45:42,YouTube,youtube.com,OK,14.0
+2026-11-25 07:45:42,GitHub,github.com,OK,59.0
+2026-11-25 07:45:47,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:47,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:45:47,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:45:47,Google,google.com,OK,47.0
+2026-11-25 07:45:47,YouTube,youtube.com,OK,17.0
+2026-11-25 07:45:47,GitHub,github.com,OK,73.0
+2026-11-25 07:45:53,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:53,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:45:53,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:45:53,Google,google.com,OK,14.0
+2026-11-25 07:45:53,YouTube,youtube.com,OK,15.0
+2026-11-25 07:45:53,GitHub,github.com,OK,29.0
+2026-11-25 07:45:58,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:45:58,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:45:58,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:45:58,Google,google.com,OK,16.0
+2026-11-25 07:45:58,YouTube,youtube.com,OK,15.0
+2026-11-25 07:45:58,GitHub,github.com,OK,29.0
+2026-11-25 07:46:03,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:46:03,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 07:46:03,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:46:03,Google,google.com,OK,14.0
+2026-11-25 07:46:03,YouTube,youtube.com,OK,14.0
+2026-11-25 07:46:03,GitHub,github.com,OK,29.0
+2026-11-25 07:46:08,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:46:08,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:46:08,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:46:08,Google,google.com,OK,13.0
+2026-11-25 07:46:08,YouTube,youtube.com,OK,16.0
+2026-11-25 07:46:08,GitHub,github.com,OK,28.0
+2026-11-25 07:46:14,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:46:14,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:46:14,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:46:14,Google,google.com,OK,28.0
+2026-11-25 07:46:14,YouTube,youtube.com,OK,56.0
+2026-11-25 07:46:14,GitHub,github.com,OK,46.0
+2026-11-25 07:46:19,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:46:19,Google DNS,8.8.8.8,OK,27.0
+2026-11-25 07:46:19,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:46:19,Google,google.com,OK,14.0
+2026-11-25 07:46:19,YouTube,youtube.com,OK,17.0
+2026-11-25 07:46:19,GitHub,github.com,OK,32.0
+2026-11-25 07:46:25,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:46:25,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:46:25,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:46:25,Google,google.com,OK,15.0
+2026-11-25 07:46:25,YouTube,youtube.com,OK,19.0
+2026-11-25 07:46:25,GitHub,github.com,OK,30.0
+2026-11-25 07:46:30,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:46:30,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 07:46:30,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:46:30,Google,google.com,OK,17.0
+2026-11-25 07:46:30,YouTube,youtube.com,OK,16.0
+2026-11-25 07:46:30,GitHub,github.com,OK,31.0
+2026-11-25 07:46:35,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:46:35,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 07:46:35,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:46:35,Google,google.com,OK,17.0
+2026-11-25 07:46:35,YouTube,youtube.com,OK,18.0
+2026-11-25 07:46:35,GitHub,github.com,OK,31.0
+2026-11-25 07:46:40,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:46:40,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:46:40,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:46:40,Google,google.com,OK,15.0
+2026-11-25 07:46:40,YouTube,youtube.com,OK,19.0
+2026-11-25 07:46:40,GitHub,github.com,OK,30.0
+2026-11-25 07:46:45,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:46:45,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:46:45,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:46:45,Google,google.com,OK,16.0
+2026-11-25 07:46:45,YouTube,youtube.com,OK,15.0
+2026-11-25 07:46:45,GitHub,github.com,OK,29.0
+2026-11-25 07:46:51,Router (gateway),192.168.1.1,OK,9.0
+2026-11-25 07:46:51,Google DNS,8.8.8.8,OK,19.0
+2026-11-25 07:46:51,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:46:51,Google,google.com,OK,14.0
+2026-11-25 07:46:51,YouTube,youtube.com,OK,18.0
+2026-11-25 07:46:51,GitHub,github.com,OK,29.0
+2026-11-25 07:46:56,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:46:56,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:46:56,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:46:56,Google,google.com,OK,15.0
+2026-11-25 07:46:56,YouTube,youtube.com,OK,16.0
+2026-11-25 07:46:56,GitHub,github.com,OK,30.0
+2026-11-25 07:47:01,Router (gateway),192.168.1.1,OK,7.0
+2026-11-25 07:47:01,Google DNS,8.8.8.8,OK,31.0
+2026-11-25 07:47:01,Cloudflare DNS,1.1.1.1,OK,21.0
+2026-11-25 07:47:01,Google,google.com,OK,17.0
+2026-11-25 07:47:01,YouTube,youtube.com,OK,21.0
+2026-11-25 07:47:01,GitHub,github.com,OK,31.0
+2026-11-25 07:47:06,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:47:06,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 07:47:06,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:47:06,Google,google.com,OK,14.0
+2026-11-25 07:47:06,YouTube,youtube.com,OK,14.0
+2026-11-25 07:47:06,GitHub,github.com,OK,30.0
+2026-11-25 07:47:12,Router (gateway),192.168.1.1,OK,10.0
+2026-11-25 07:47:12,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:47:12,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:47:12,Google,google.com,OK,14.0
+2026-11-25 07:47:12,YouTube,youtube.com,OK,18.0
+2026-11-25 07:47:12,GitHub,github.com,OK,29.0
+2026-11-25 07:47:17,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:47:17,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:47:17,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:47:17,Google,google.com,OK,16.0
+2026-11-25 07:47:17,YouTube,youtube.com,OK,15.0
+2026-11-25 07:47:17,GitHub,github.com,OK,32.0
+2026-11-25 07:47:22,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:47:22,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:47:22,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:47:22,Google,google.com,LOST,
+2026-11-25 07:47:22,YouTube,youtube.com,OK,16.0
+2026-11-25 07:47:22,GitHub,github.com,OK,28.0
+2026-11-25 07:47:31,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:47:31,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:47:31,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:47:31,Google,google.com,OK,14.0
+2026-11-25 07:47:31,YouTube,youtube.com,OK,15.0
+2026-11-25 07:47:31,GitHub,github.com,OK,29.0
+2026-11-25 07:47:36,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:47:36,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:47:36,Cloudflare DNS,1.1.1.1,OK,22.0
+2026-11-25 07:47:36,Google,google.com,OK,15.0
+2026-11-25 07:47:36,YouTube,youtube.com,OK,15.0
+2026-11-25 07:47:36,GitHub,github.com,OK,29.0
+2026-11-25 07:47:42,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:47:42,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:47:42,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:47:42,Google,google.com,OK,16.0
+2026-11-25 07:47:42,YouTube,youtube.com,OK,13.0
+2026-11-25 07:47:42,GitHub,github.com,OK,31.0
+2026-11-25 07:47:47,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:47:47,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:47:47,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:47:47,Google,google.com,OK,18.0
+2026-11-25 07:47:47,YouTube,youtube.com,OK,15.0
+2026-11-25 07:47:47,GitHub,github.com,OK,29.0
+2026-11-25 07:47:52,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:47:52,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:47:52,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:47:52,Google,google.com,OK,14.0
+2026-11-25 07:47:52,YouTube,youtube.com,OK,14.0
+2026-11-25 07:47:52,GitHub,github.com,OK,42.0
+2026-11-25 07:47:58,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:47:58,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:47:58,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:47:58,Google,google.com,OK,14.0
+2026-11-25 07:47:58,YouTube,youtube.com,OK,16.0
+2026-11-25 07:47:58,GitHub,github.com,OK,37.0
+2026-11-25 07:48:03,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:48:03,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:48:03,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:48:03,Google,google.com,OK,16.0
+2026-11-25 07:48:03,YouTube,youtube.com,OK,13.0
+2026-11-25 07:48:03,GitHub,github.com,OK,36.0
+2026-11-25 07:48:08,Router (gateway),192.168.1.1,OK,11.0
+2026-11-25 07:48:08,Google DNS,8.8.8.8,OK,29.0
+2026-11-25 07:48:08,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:48:08,Google,google.com,OK,17.0
+2026-11-25 07:48:08,YouTube,youtube.com,OK,11.0
+2026-11-25 07:48:08,GitHub,github.com,OK,36.0
+2026-11-25 07:48:13,Router (gateway),192.168.1.1,OK,17.0
+2026-11-25 07:48:13,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:48:13,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:48:13,Google,google.com,OK,14.0
+2026-11-25 07:48:13,YouTube,youtube.com,OK,13.0
+2026-11-25 07:48:13,GitHub,github.com,OK,37.0
+2026-11-25 07:48:19,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:48:19,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:48:19,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:48:19,Google,google.com,OK,14.0
+2026-11-25 07:48:19,YouTube,youtube.com,OK,12.0
+2026-11-25 07:48:19,GitHub,github.com,OK,34.0
+2026-11-25 07:48:24,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:48:24,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:48:24,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:48:24,Google,google.com,OK,15.0
+2026-11-25 07:48:24,YouTube,youtube.com,OK,11.0
+2026-11-25 07:48:24,GitHub,github.com,OK,34.0
+2026-11-25 07:48:29,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:48:29,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:48:29,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:48:29,Google,google.com,OK,17.0
+2026-11-25 07:48:29,YouTube,youtube.com,OK,12.0
+2026-11-25 07:48:29,GitHub,github.com,OK,36.0
+2026-11-25 07:48:34,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:48:34,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:48:34,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:48:34,Google,google.com,OK,19.0
+2026-11-25 07:48:34,YouTube,youtube.com,OK,13.0
+2026-11-25 07:48:34,GitHub,github.com,OK,35.0
+2026-11-25 07:48:40,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:48:40,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:48:40,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:48:40,Google,google.com,OK,15.0
+2026-11-25 07:48:40,YouTube,youtube.com,OK,12.0
+2026-11-25 07:48:40,GitHub,github.com,OK,34.0
+2026-11-25 07:48:45,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:48:45,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:48:45,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:48:45,Google,google.com,OK,15.0
+2026-11-25 07:48:45,YouTube,youtube.com,OK,12.0
+2026-11-25 07:48:45,GitHub,github.com,OK,36.0
+2026-11-25 07:48:50,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:48:50,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:48:50,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:48:50,Google,google.com,OK,17.0
+2026-11-25 07:48:50,YouTube,youtube.com,OK,13.0
+2026-11-25 07:48:50,GitHub,github.com,OK,33.0
+2026-11-25 07:48:55,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:48:55,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 07:48:55,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:48:55,Google,google.com,OK,14.0
+2026-11-25 07:48:55,YouTube,youtube.com,OK,15.0
+2026-11-25 07:48:55,GitHub,github.com,OK,33.0
+2026-11-25 07:49:01,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:49:01,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:49:01,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:49:01,Google,google.com,OK,18.0
+2026-11-25 07:49:01,YouTube,youtube.com,OK,13.0
+2026-11-25 07:49:01,GitHub,github.com,OK,33.0
+2026-11-25 07:49:06,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:49:06,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:49:06,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:49:06,Google,google.com,OK,14.0
+2026-11-25 07:49:06,YouTube,youtube.com,OK,16.0
+2026-11-25 07:49:06,GitHub,github.com,OK,28.0
+2026-11-25 07:49:11,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:49:11,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:49:11,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:49:11,Google,google.com,OK,40.0
+2026-11-25 07:49:11,YouTube,youtube.com,OK,12.0
+2026-11-25 07:49:11,GitHub,github.com,OK,31.0
+2026-11-25 07:49:16,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:49:16,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:49:16,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:49:16,Google,google.com,OK,15.0
+2026-11-25 07:49:16,YouTube,youtube.com,OK,11.0
+2026-11-25 07:49:16,GitHub,github.com,OK,30.0
+2026-11-25 07:49:22,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:49:22,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:49:22,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:49:22,Google,google.com,OK,14.0
+2026-11-25 07:49:22,YouTube,youtube.com,OK,14.0
+2026-11-25 07:49:22,GitHub,github.com,OK,28.0
+2026-11-25 07:49:27,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:49:27,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:49:27,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:49:27,Google,google.com,OK,15.0
+2026-11-25 07:49:27,YouTube,youtube.com,OK,13.0
+2026-11-25 07:49:27,GitHub,github.com,OK,27.0
+2026-11-25 07:49:32,Router (gateway),192.168.1.1,OK,18.0
+2026-11-25 07:49:32,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:49:32,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:49:32,Google,google.com,OK,14.0
+2026-11-25 07:49:32,YouTube,youtube.com,OK,15.0
+2026-11-25 07:49:32,GitHub,github.com,OK,28.0
+2026-11-25 07:49:37,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:49:37,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:49:37,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:49:37,Google,google.com,OK,14.0
+2026-11-25 07:49:37,YouTube,youtube.com,OK,12.0
+2026-11-25 07:49:37,GitHub,github.com,OK,32.0
+2026-11-25 07:49:43,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 07:49:43,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:49:43,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:49:43,Google,google.com,OK,14.0
+2026-11-25 07:49:43,YouTube,youtube.com,OK,11.0
+2026-11-25 07:49:43,GitHub,github.com,OK,27.0
+2026-11-25 07:49:48,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:49:48,Google DNS,8.8.8.8,OK,24.0
+2026-11-25 07:49:48,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:49:48,Google,google.com,OK,16.0
+2026-11-25 07:49:48,YouTube,youtube.com,OK,14.0
+2026-11-25 07:49:48,GitHub,github.com,OK,35.0
+2026-11-25 07:49:53,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:49:53,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:49:53,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:49:53,Google,google.com,OK,15.0
+2026-11-25 07:49:53,YouTube,youtube.com,OK,11.0
+2026-11-25 07:49:53,GitHub,github.com,OK,33.0
+2026-11-25 07:49:58,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:49:58,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:49:58,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:49:58,Google,google.com,OK,14.0
+2026-11-25 07:49:58,YouTube,youtube.com,OK,12.0
+2026-11-25 07:49:58,GitHub,github.com,OK,35.0
+2026-11-25 07:50:04,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:50:04,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:50:04,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:50:04,Google,google.com,OK,15.0
+2026-11-25 07:50:04,YouTube,youtube.com,OK,14.0
+2026-11-25 07:50:04,GitHub,github.com,OK,32.0
+2026-11-25 07:50:09,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:50:09,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:50:09,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:50:09,Google,google.com,OK,15.0
+2026-11-25 07:50:09,YouTube,youtube.com,OK,13.0
+2026-11-25 07:50:09,GitHub,github.com,OK,34.0
+2026-11-25 07:50:14,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:50:14,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:50:14,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:50:14,Google,google.com,OK,15.0
+2026-11-25 07:50:14,YouTube,youtube.com,OK,12.0
+2026-11-25 07:50:14,GitHub,github.com,OK,34.0
+2026-11-25 07:50:19,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:50:19,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:50:19,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:50:19,Google,google.com,OK,16.0
+2026-11-25 07:50:19,YouTube,youtube.com,OK,12.0
+2026-11-25 07:50:19,GitHub,github.com,OK,34.0
+2026-11-25 07:50:25,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:50:25,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:50:25,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:50:25,Google,google.com,OK,16.0
+2026-11-25 07:50:25,YouTube,youtube.com,OK,13.0
+2026-11-25 07:50:25,GitHub,github.com,OK,32.0
+2026-11-25 07:50:30,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:50:30,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:50:30,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:50:30,Google,google.com,OK,15.0
+2026-11-25 07:50:30,YouTube,youtube.com,OK,11.0
+2026-11-25 07:50:30,GitHub,github.com,OK,33.0
+2026-11-25 07:50:35,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:50:35,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:50:35,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:50:35,Google,google.com,OK,15.0
+2026-11-25 07:50:35,YouTube,youtube.com,OK,12.0
+2026-11-25 07:50:35,GitHub,github.com,OK,34.0
+2026-11-25 07:50:40,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:50:40,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:50:40,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:50:40,Google,google.com,OK,17.0
+2026-11-25 07:50:40,YouTube,youtube.com,OK,12.0
+2026-11-25 07:50:40,GitHub,github.com,OK,27.0
+2026-11-25 07:50:46,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:50:46,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:50:46,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:50:46,Google,google.com,OK,14.0
+2026-11-25 07:50:46,YouTube,youtube.com,OK,12.0
+2026-11-25 07:50:46,GitHub,github.com,OK,29.0
+2026-11-25 07:50:51,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:50:51,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:50:51,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:50:51,Google,google.com,OK,14.0
+2026-11-25 07:50:51,YouTube,youtube.com,OK,11.0
+2026-11-25 07:50:51,GitHub,github.com,OK,31.0
+2026-11-25 07:50:56,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:50:56,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:50:56,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:50:56,Google,google.com,OK,16.0
+2026-11-25 07:50:56,YouTube,youtube.com,OK,13.0
+2026-11-25 07:50:56,GitHub,github.com,OK,31.0
+2026-11-25 07:51:01,Router (gateway),192.168.1.1,OK,8.0
+2026-11-25 07:51:01,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:51:01,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:51:01,Google,google.com,OK,17.0
+2026-11-25 07:51:01,YouTube,youtube.com,OK,11.0
+2026-11-25 07:51:01,GitHub,github.com,OK,28.0
+2026-11-25 07:51:06,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:51:06,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:51:06,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:51:06,Google,google.com,OK,14.0
+2026-11-25 07:51:06,YouTube,youtube.com,OK,13.0
+2026-11-25 07:51:06,GitHub,github.com,OK,27.0
+2026-11-25 07:51:12,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:51:12,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:51:12,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:51:12,Google,google.com,OK,15.0
+2026-11-25 07:51:12,YouTube,youtube.com,OK,12.0
+2026-11-25 07:51:12,GitHub,github.com,OK,29.0
+2026-11-25 07:51:17,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:51:17,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:51:17,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:51:17,Google,google.com,OK,15.0
+2026-11-25 07:51:17,YouTube,youtube.com,OK,13.0
+2026-11-25 07:51:17,GitHub,github.com,OK,34.0
+2026-11-25 07:51:22,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:51:22,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:51:22,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:51:22,Google,google.com,OK,15.0
+2026-11-25 07:51:22,YouTube,youtube.com,OK,14.0
+2026-11-25 07:51:22,GitHub,github.com,OK,36.0
+2026-11-25 07:51:27,Router (gateway),192.168.1.1,OK,14.0
+2026-11-25 07:51:27,Google DNS,8.8.8.8,OK,35.0
+2026-11-25 07:51:27,Cloudflare DNS,1.1.1.1,OK,21.0
+2026-11-25 07:51:27,Google,google.com,OK,18.0
+2026-11-25 07:51:27,YouTube,youtube.com,OK,31.0
+2026-11-25 07:51:27,GitHub,github.com,OK,40.0
+2026-11-25 07:51:33,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:51:33,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:51:33,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:51:33,Google,google.com,OK,16.0
+2026-11-25 07:51:33,YouTube,youtube.com,OK,11.0
+2026-11-25 07:51:33,GitHub,github.com,OK,30.0
+2026-11-25 07:51:38,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:51:38,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:51:38,Cloudflare DNS,1.1.1.1,OK,20.0
+2026-11-25 07:51:38,Google,google.com,OK,17.0
+2026-11-25 07:51:38,YouTube,youtube.com,OK,13.0
+2026-11-25 07:51:38,GitHub,github.com,OK,34.0
+2026-11-25 07:51:43,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:51:43,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:51:43,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:51:43,Google,google.com,OK,17.0
+2026-11-25 07:51:43,YouTube,youtube.com,OK,12.0
+2026-11-25 07:51:43,GitHub,github.com,OK,29.0
+2026-11-25 07:51:49,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:51:49,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:51:49,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:51:49,Google,google.com,OK,14.0
+2026-11-25 07:51:49,YouTube,youtube.com,OK,12.0
+2026-11-25 07:51:49,GitHub,github.com,OK,27.0
+2026-11-25 07:51:54,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:51:54,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:51:54,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:51:54,Google,google.com,OK,16.0
+2026-11-25 07:51:54,YouTube,youtube.com,OK,14.0
+2026-11-25 07:51:54,GitHub,github.com,OK,28.0
+2026-11-25 07:51:59,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:51:59,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:51:59,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:51:59,Google,google.com,OK,17.0
+2026-11-25 07:51:59,YouTube,youtube.com,OK,13.0
+2026-11-25 07:51:59,GitHub,github.com,OK,29.0
+2026-11-25 07:52:04,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:52:04,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:52:04,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:52:04,Google,google.com,OK,17.0
+2026-11-25 07:52:04,YouTube,youtube.com,OK,13.0
+2026-11-25 07:52:04,GitHub,github.com,OK,28.0
+2026-11-25 07:52:09,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:52:09,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:52:09,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:52:09,Google,google.com,OK,14.0
+2026-11-25 07:52:09,YouTube,youtube.com,OK,13.0
+2026-11-25 07:52:09,GitHub,github.com,OK,29.0
+2026-11-25 07:52:15,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:52:15,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:52:15,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:52:15,Google,google.com,OK,23.0
+2026-11-25 07:52:15,YouTube,youtube.com,OK,20.0
+2026-11-25 07:52:15,GitHub,github.com,OK,31.0
+2026-11-25 07:52:20,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:52:20,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:52:20,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:52:20,Google,google.com,OK,15.0
+2026-11-25 07:52:20,YouTube,youtube.com,OK,15.0
+2026-11-25 07:52:20,GitHub,github.com,OK,31.0
+2026-11-25 07:52:25,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:52:25,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:52:25,Cloudflare DNS,1.1.1.1,OK,21.0
+2026-11-25 07:52:25,Google,google.com,OK,14.0
+2026-11-25 07:52:25,YouTube,youtube.com,OK,12.0
+2026-11-25 07:52:25,GitHub,github.com,OK,33.0
+2026-11-25 07:52:30,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:52:30,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:52:30,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:52:30,Google,google.com,OK,16.0
+2026-11-25 07:52:30,YouTube,youtube.com,OK,13.0
+2026-11-25 07:52:30,GitHub,github.com,OK,28.0
+2026-11-25 07:52:36,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:52:36,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:52:36,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:52:36,Google,google.com,OK,29.0
+2026-11-25 07:52:36,YouTube,youtube.com,OK,14.0
+2026-11-25 07:52:36,GitHub,github.com,OK,32.0
+2026-11-25 07:52:41,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 07:52:41,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:52:41,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:52:41,Google,google.com,OK,14.0
+2026-11-25 07:52:41,YouTube,youtube.com,OK,12.0
+2026-11-25 07:52:41,GitHub,github.com,OK,35.0
+2026-11-25 07:52:47,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:52:47,Google DNS,8.8.8.8,OK,79.0
+2026-11-25 07:52:47,Cloudflare DNS,1.1.1.1,OK,52.0
+2026-11-25 07:52:47,Google,google.com,OK,27.0
+2026-11-25 07:52:47,YouTube,youtube.com,OK,28.0
+2026-11-25 07:52:47,GitHub,github.com,OK,42.0
+2026-11-25 07:52:52,Router (gateway),192.168.1.1,OK,74.0
+2026-11-25 07:52:52,Google DNS,8.8.8.8,OK,125.0
+2026-11-25 07:52:52,Cloudflare DNS,1.1.1.1,OK,122.0
+2026-11-25 07:52:52,Google,google.com,OK,18.0
+2026-11-25 07:52:52,YouTube,youtube.com,OK,90.0
+2026-11-25 07:52:52,GitHub,github.com,OK,94.0
+2026-11-25 07:52:58,Router (gateway),192.168.1.1,OK,45.0
+2026-11-25 07:52:58,Google DNS,8.8.8.8,OK,51.0
+2026-11-25 07:52:58,Cloudflare DNS,1.1.1.1,OK,50.0
+2026-11-25 07:52:58,Google,google.com,OK,93.0
+2026-11-25 07:52:58,YouTube,youtube.com,OK,75.0
+2026-11-25 07:52:58,GitHub,github.com,OK,109.0
+2026-11-25 07:53:03,Router (gateway),192.168.1.1,OK,119.0
+2026-11-25 07:53:03,Google DNS,8.8.8.8,OK,64.0
+2026-11-25 07:53:03,Cloudflare DNS,1.1.1.1,OK,80.0
+2026-11-25 07:53:03,Google,google.com,OK,44.0
+2026-11-25 07:53:03,YouTube,youtube.com,OK,87.0
+2026-11-25 07:53:03,GitHub,github.com,OK,74.0
+2026-11-25 07:53:09,Router (gateway),192.168.1.1,OK,38.0
+2026-11-25 07:53:09,Google DNS,8.8.8.8,OK,91.0
+2026-11-25 07:53:09,Cloudflare DNS,1.1.1.1,OK,62.0
+2026-11-25 07:53:09,Google,google.com,OK,74.0
+2026-11-25 07:53:09,YouTube,youtube.com,OK,101.0
+2026-11-25 07:53:09,GitHub,github.com,OK,59.0
+2026-11-25 07:53:15,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:53:15,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:53:15,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:53:15,Google,google.com,OK,14.0
+2026-11-25 07:53:15,YouTube,youtube.com,OK,11.0
+2026-11-25 07:53:15,GitHub,github.com,OK,40.0
+2026-11-25 07:53:20,Router (gateway),192.168.1.1,OK,43.0
+2026-11-25 07:53:20,Google DNS,8.8.8.8,OK,49.0
+2026-11-25 07:53:20,Cloudflare DNS,1.1.1.1,OK,82.0
+2026-11-25 07:53:20,Google,google.com,OK,29.0
+2026-11-25 07:53:20,YouTube,youtube.com,OK,121.0
+2026-11-25 07:53:20,GitHub,github.com,OK,55.0
+2026-11-25 07:53:26,Router (gateway),192.168.1.1,OK,19.0
+2026-11-25 07:53:26,Google DNS,8.8.8.8,OK,25.0
+2026-11-25 07:53:26,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:53:26,Google,google.com,OK,16.0
+2026-11-25 07:53:26,YouTube,youtube.com,OK,13.0
+2026-11-25 07:53:26,GitHub,github.com,OK,60.0
+2026-11-25 07:53:31,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 07:53:31,Google DNS,8.8.8.8,OK,144.0
+2026-11-25 07:53:31,Cloudflare DNS,1.1.1.1,OK,80.0
+2026-11-25 07:53:31,Google,google.com,OK,20.0
+2026-11-25 07:53:31,YouTube,youtube.com,OK,156.0
+2026-11-25 07:53:31,GitHub,github.com,OK,35.0
+2026-11-25 07:53:37,Router (gateway),192.168.1.1,OK,35.0
+2026-11-25 07:53:37,Google DNS,8.8.8.8,OK,102.0
+2026-11-25 07:53:37,Cloudflare DNS,1.1.1.1,OK,79.0
+2026-11-25 07:53:37,Google,google.com,OK,166.0
+2026-11-25 07:53:37,YouTube,youtube.com,OK,26.0
+2026-11-25 07:53:37,GitHub,github.com,OK,136.0
+2026-11-25 07:53:42,Router (gateway),192.168.1.1,OK,20.0
+2026-11-25 07:53:42,Google DNS,8.8.8.8,OK,38.0
+2026-11-25 07:53:42,Cloudflare DNS,1.1.1.1,OK,117.0
+2026-11-25 07:53:42,Google,google.com,OK,129.0
+2026-11-25 07:53:42,YouTube,youtube.com,OK,27.0
+2026-11-25 07:53:42,GitHub,github.com,OK,135.0
+2026-11-25 07:53:48,Router (gateway),192.168.1.1,OK,34.0
+2026-11-25 07:53:48,Google DNS,8.8.8.8,OK,146.0
+2026-11-25 07:53:48,Cloudflare DNS,1.1.1.1,OK,32.0
+2026-11-25 07:53:48,Google,google.com,OK,170.0
+2026-11-25 07:53:48,YouTube,youtube.com,OK,150.0
+2026-11-25 07:53:48,GitHub,github.com,OK,154.0
+2026-11-25 07:53:54,Router (gateway),192.168.1.1,OK,76.0
+2026-11-25 07:53:54,Google DNS,8.8.8.8,OK,37.0
+2026-11-25 07:53:54,Cloudflare DNS,1.1.1.1,OK,48.0
+2026-11-25 07:53:54,Google,google.com,OK,132.0
+2026-11-25 07:53:54,YouTube,youtube.com,OK,87.0
+2026-11-25 07:53:54,GitHub,github.com,OK,85.0
+2026-11-25 07:53:59,Router (gateway),192.168.1.1,OK,68.0
+2026-11-25 07:53:59,Google DNS,8.8.8.8,OK,160.0
+2026-11-25 07:53:59,Cloudflare DNS,1.1.1.1,OK,103.0
+2026-11-25 07:53:59,Google,google.com,OK,107.0
+2026-11-25 07:53:59,YouTube,youtube.com,OK,130.0
+2026-11-25 07:53:59,GitHub,github.com,OK,177.0
+2026-11-25 07:54:05,Router (gateway),192.168.1.1,OK,155.0
+2026-11-25 07:54:05,Google DNS,8.8.8.8,OK,76.0
+2026-11-25 07:54:05,Cloudflare DNS,1.1.1.1,OK,121.0
+2026-11-25 07:54:05,Google,google.com,OK,257.0
+2026-11-25 07:54:05,YouTube,youtube.com,OK,195.0
+2026-11-25 07:54:05,GitHub,github.com,OK,180.0
+2026-11-25 07:54:11,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:54:11,Google DNS,8.8.8.8,OK,21.0
+2026-11-25 07:54:11,Cloudflare DNS,1.1.1.1,OK,28.0
+2026-11-25 07:54:11,Google,google.com,OK,46.0
+2026-11-25 07:54:11,YouTube,youtube.com,OK,35.0
+2026-11-25 07:54:11,GitHub,github.com,OK,100.0
+2026-11-25 07:54:17,Router (gateway),192.168.1.1,OK,100.0
+2026-11-25 07:54:17,Google DNS,8.8.8.8,OK,46.0
+2026-11-25 07:54:17,Cloudflare DNS,1.1.1.1,OK,21.0
+2026-11-25 07:54:17,Google,google.com,OK,199.0
+2026-11-25 07:54:17,YouTube,youtube.com,OK,55.0
+2026-11-25 07:54:17,GitHub,github.com,OK,125.0
+2026-11-25 07:54:22,Router (gateway),192.168.1.1,OK,101.0
+2026-11-25 07:54:22,Google DNS,8.8.8.8,OK,97.0
+2026-11-25 07:54:22,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:54:22,Google,google.com,OK,40.0
+2026-11-25 07:54:22,YouTube,youtube.com,OK,23.0
+2026-11-25 07:54:22,GitHub,github.com,OK,220.0
+2026-11-25 07:54:28,Router (gateway),192.168.1.1,OK,48.0
+2026-11-25 07:54:28,Google DNS,8.8.8.8,OK,27.0
+2026-11-25 07:54:28,Cloudflare DNS,1.1.1.1,OK,38.0
+2026-11-25 07:54:28,Google,google.com,OK,38.0
+2026-11-25 07:54:28,YouTube,youtube.com,OK,154.0
+2026-11-25 07:54:28,GitHub,github.com,OK,35.0
+2026-11-25 07:54:34,Router (gateway),192.168.1.1,OK,169.0
+2026-11-25 07:54:34,Google DNS,8.8.8.8,OK,20.0
+2026-11-25 07:54:34,Cloudflare DNS,1.1.1.1,OK,33.0
+2026-11-25 07:54:34,Google,google.com,OK,150.0
+2026-11-25 07:54:34,YouTube,youtube.com,OK,57.0
+2026-11-25 07:54:34,GitHub,github.com,OK,246.0
+2026-11-25 07:54:40,Router (gateway),192.168.1.1,OK,104.0
+2026-11-25 07:54:40,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:54:40,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:54:40,Google,google.com,OK,85.0
+2026-11-25 07:54:40,YouTube,youtube.com,OK,94.0
+2026-11-25 07:54:40,GitHub,github.com,OK,66.0
+2026-11-25 07:54:45,Router (gateway),192.168.1.1,OK,31.0
+2026-11-25 07:54:45,Google DNS,8.8.8.8,OK,99.0
+2026-11-25 07:54:45,Cloudflare DNS,1.1.1.1,OK,109.0
+2026-11-25 07:54:45,Google,google.com,OK,51.0
+2026-11-25 07:54:45,YouTube,youtube.com,OK,37.0
+2026-11-25 07:54:45,GitHub,github.com,OK,239.0
+2026-11-25 07:54:51,Router (gateway),192.168.1.1,OK,152.0
+2026-11-25 07:54:51,Google DNS,8.8.8.8,OK,105.0
+2026-11-25 07:54:51,Cloudflare DNS,1.1.1.1,OK,98.0
+2026-11-25 07:54:51,Google,google.com,OK,48.0
+2026-11-25 07:54:51,YouTube,youtube.com,OK,56.0
+2026-11-25 07:54:51,GitHub,github.com,OK,103.0
+2026-11-25 07:54:57,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:54:57,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:54:57,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:54:57,Google,google.com,OK,16.0
+2026-11-25 07:54:57,YouTube,youtube.com,OK,17.0
+2026-11-25 07:54:57,GitHub,github.com,OK,49.0
+2026-11-25 07:55:02,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:55:02,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:55:02,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:55:02,Google,google.com,OK,21.0
+2026-11-25 07:55:02,YouTube,youtube.com,OK,13.0
+2026-11-25 07:55:02,GitHub,github.com,OK,39.0
+2026-11-25 07:55:08,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:55:08,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:55:08,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:55:08,Google,google.com,OK,14.0
+2026-11-25 07:55:08,YouTube,youtube.com,OK,13.0
+2026-11-25 07:55:08,GitHub,github.com,OK,34.0
+2026-11-25 07:55:13,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:55:13,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:55:13,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:55:13,Google,google.com,OK,21.0
+2026-11-25 07:55:13,YouTube,youtube.com,OK,16.0
+2026-11-25 07:55:13,GitHub,github.com,OK,34.0
+2026-11-25 07:55:19,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 07:55:19,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:55:19,Cloudflare DNS,1.1.1.1,OK,21.0
+2026-11-25 07:55:19,Google,google.com,OK,17.0
+2026-11-25 07:55:19,YouTube,youtube.com,OK,22.0
+2026-11-25 07:55:19,GitHub,github.com,OK,33.0
+2026-11-25 07:55:24,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:55:24,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:55:24,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:55:24,Google,google.com,OK,17.0
+2026-11-25 07:55:24,YouTube,youtube.com,OK,16.0
+2026-11-25 07:55:24,GitHub,github.com,OK,32.0
+2026-11-25 07:55:29,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:55:29,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:55:29,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:55:29,Google,google.com,OK,24.0
+2026-11-25 07:55:29,YouTube,youtube.com,OK,11.0
+2026-11-25 07:55:29,GitHub,github.com,OK,39.0
+2026-11-25 07:55:35,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:55:35,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:55:35,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:55:35,Google,google.com,OK,21.0
+2026-11-25 07:55:35,YouTube,youtube.com,OK,14.0
+2026-11-25 07:55:35,GitHub,github.com,OK,39.0
+2026-11-25 07:55:40,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:55:40,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:55:40,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:55:40,Google,google.com,OK,18.0
+2026-11-25 07:55:40,YouTube,youtube.com,OK,15.0
+2026-11-25 07:55:40,GitHub,github.com,OK,36.0
+2026-11-25 07:55:45,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:55:45,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:55:45,Cloudflare DNS,1.1.1.1,OK,24.0
+2026-11-25 07:55:45,Google,google.com,OK,19.0
+2026-11-25 07:55:45,YouTube,youtube.com,OK,14.0
+2026-11-25 07:55:45,GitHub,github.com,OK,33.0
+2026-11-25 07:55:51,Router (gateway),192.168.1.1,OK,24.0
+2026-11-25 07:55:51,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:55:51,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 07:55:51,Google,google.com,OK,135.0
+2026-11-25 07:55:51,YouTube,youtube.com,OK,12.0
+2026-11-25 07:55:51,GitHub,github.com,OK,35.0
+2026-11-25 07:55:56,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:55:56,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:55:56,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:55:56,Google,google.com,OK,15.0
+2026-11-25 07:55:56,YouTube,youtube.com,OK,13.0
+2026-11-25 07:55:56,GitHub,github.com,OK,36.0
+2026-11-25 07:56:01,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:56:01,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:56:01,Cloudflare DNS,1.1.1.1,OK,23.0
+2026-11-25 07:56:01,Google,google.com,OK,21.0
+2026-11-25 07:56:01,YouTube,youtube.com,OK,13.0
+2026-11-25 07:56:01,GitHub,github.com,OK,35.0
+2026-11-25 07:56:07,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:56:07,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:56:07,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:56:07,Google,google.com,OK,14.0
+2026-11-25 07:56:07,YouTube,youtube.com,OK,20.0
+2026-11-25 07:56:07,GitHub,github.com,OK,34.0
+2026-11-25 07:56:12,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:56:12,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:56:12,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:56:12,Google,google.com,OK,16.0
+2026-11-25 07:56:12,YouTube,youtube.com,OK,17.0
+2026-11-25 07:56:12,GitHub,github.com,OK,31.0
+2026-11-25 07:56:18,Router (gateway),192.168.1.1,OK,7.0
+2026-11-25 07:56:18,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:56:18,Cloudflare DNS,1.1.1.1,OK,64.0
+2026-11-25 07:56:18,Google,google.com,OK,33.0
+2026-11-25 07:56:18,YouTube,youtube.com,OK,26.0
+2026-11-25 07:56:18,GitHub,github.com,OK,31.0
+2026-11-25 07:56:23,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:56:23,Google DNS,8.8.8.8,OK,33.0
+2026-11-25 07:56:23,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:56:23,Google,google.com,OK,23.0
+2026-11-25 07:56:23,YouTube,youtube.com,OK,11.0
+2026-11-25 07:56:23,GitHub,github.com,OK,29.0
+2026-11-25 07:56:28,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:56:28,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:56:28,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:56:28,Google,google.com,OK,19.0
+2026-11-25 07:56:28,YouTube,youtube.com,OK,12.0
+2026-11-25 07:56:28,GitHub,github.com,OK,28.0
+2026-11-25 07:56:34,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 07:56:34,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:56:34,Cloudflare DNS,1.1.1.1,OK,28.0
+2026-11-25 07:56:34,Google,google.com,OK,14.0
+2026-11-25 07:56:34,YouTube,youtube.com,OK,13.0
+2026-11-25 07:56:34,GitHub,github.com,OK,28.0
+2026-11-25 07:56:39,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:56:39,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:56:39,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:56:39,Google,google.com,OK,18.0
+2026-11-25 07:56:39,YouTube,youtube.com,OK,14.0
+2026-11-25 07:56:39,GitHub,github.com,OK,30.0
+2026-11-25 07:56:44,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:56:44,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:56:44,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:56:44,Google,google.com,OK,14.0
+2026-11-25 07:56:44,YouTube,youtube.com,OK,13.0
+2026-11-25 07:56:44,GitHub,github.com,OK,41.0
+2026-11-25 07:56:49,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:56:49,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:56:49,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:56:49,Google,google.com,OK,15.0
+2026-11-25 07:56:49,YouTube,youtube.com,OK,17.0
+2026-11-25 07:56:49,GitHub,github.com,OK,28.0
+2026-11-25 07:56:55,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:56:55,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:56:55,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:56:55,Google,google.com,OK,15.0
+2026-11-25 07:56:55,YouTube,youtube.com,OK,11.0
+2026-11-25 07:56:55,GitHub,github.com,OK,29.0
+2026-11-25 07:57:00,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:00,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:57:00,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 07:57:00,Google,google.com,OK,17.0
+2026-11-25 07:57:00,YouTube,youtube.com,OK,13.0
+2026-11-25 07:57:00,GitHub,github.com,OK,28.0
+2026-11-25 07:57:05,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:05,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:57:05,Cloudflare DNS,1.1.1.1,OK,28.0
+2026-11-25 07:57:05,Google,google.com,OK,14.0
+2026-11-25 07:57:05,YouTube,youtube.com,OK,13.0
+2026-11-25 07:57:05,GitHub,github.com,OK,34.0
+2026-11-25 07:57:10,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 07:57:10,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:57:10,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:57:10,Google,google.com,OK,14.0
+2026-11-25 07:57:10,YouTube,youtube.com,OK,15.0
+2026-11-25 07:57:10,GitHub,github.com,OK,30.0
+2026-11-25 07:57:16,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:16,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:57:16,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:57:16,Google,google.com,OK,15.0
+2026-11-25 07:57:16,YouTube,youtube.com,OK,12.0
+2026-11-25 07:57:16,GitHub,github.com,OK,30.0
+2026-11-25 07:57:21,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:21,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:57:21,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:57:21,Google,google.com,OK,15.0
+2026-11-25 07:57:21,YouTube,youtube.com,OK,12.0
+2026-11-25 07:57:21,GitHub,github.com,OK,38.0
+2026-11-25 07:57:26,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:57:26,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:57:26,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:57:26,Google,google.com,OK,15.0
+2026-11-25 07:57:26,YouTube,youtube.com,OK,12.0
+2026-11-25 07:57:26,GitHub,github.com,OK,31.0
+2026-11-25 07:57:31,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:31,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:57:31,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:57:31,Google,google.com,OK,16.0
+2026-11-25 07:57:31,YouTube,youtube.com,OK,12.0
+2026-11-25 07:57:31,GitHub,github.com,OK,32.0
+2026-11-25 07:57:37,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:57:37,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:57:37,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:57:37,Google,google.com,OK,14.0
+2026-11-25 07:57:37,YouTube,youtube.com,OK,12.0
+2026-11-25 07:57:37,GitHub,github.com,OK,30.0
+2026-11-25 07:57:42,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:42,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:57:42,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:57:42,Google,google.com,OK,14.0
+2026-11-25 07:57:42,YouTube,youtube.com,OK,12.0
+2026-11-25 07:57:42,GitHub,github.com,OK,32.0
+2026-11-25 07:57:47,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:47,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 07:57:47,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:57:47,Google,google.com,OK,14.0
+2026-11-25 07:57:47,YouTube,youtube.com,OK,13.0
+2026-11-25 07:57:47,GitHub,github.com,OK,33.0
+2026-11-25 07:57:52,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:57:52,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:57:52,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:57:52,Google,google.com,OK,15.0
+2026-11-25 07:57:52,YouTube,youtube.com,OK,12.0
+2026-11-25 07:57:52,GitHub,github.com,OK,31.0
+2026-11-25 07:57:57,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:57:57,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:57:57,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:57:57,Google,google.com,LOST,
+2026-11-25 07:57:57,YouTube,youtube.com,OK,13.0
+2026-11-25 07:57:57,GitHub,github.com,OK,32.0
+2026-11-25 07:58:06,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:58:06,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:58:06,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:58:06,Google,google.com,OK,15.0
+2026-11-25 07:58:06,YouTube,youtube.com,OK,12.0
+2026-11-25 07:58:06,GitHub,github.com,OK,29.0
+2026-11-25 07:58:11,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 07:58:11,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:58:11,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:58:11,Google,google.com,OK,23.0
+2026-11-25 07:58:11,YouTube,youtube.com,OK,14.0
+2026-11-25 07:58:11,GitHub,github.com,OK,29.0
+2026-11-25 07:58:17,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:58:17,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 07:58:17,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:58:17,Google,google.com,OK,17.0
+2026-11-25 07:58:17,YouTube,youtube.com,OK,13.0
+2026-11-25 07:58:17,GitHub,github.com,OK,30.0
+2026-11-25 07:58:22,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:58:22,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:58:22,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:58:22,Google,google.com,OK,14.0
+2026-11-25 07:58:22,YouTube,youtube.com,OK,14.0
+2026-11-25 07:58:22,GitHub,github.com,OK,28.0
+2026-11-25 07:58:27,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:58:27,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:58:27,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:58:27,Google,google.com,OK,14.0
+2026-11-25 07:58:27,YouTube,youtube.com,OK,14.0
+2026-11-25 07:58:27,GitHub,github.com,OK,28.0
+2026-11-25 07:58:32,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:58:32,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:58:32,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:58:32,Google,google.com,OK,16.0
+2026-11-25 07:58:32,YouTube,youtube.com,OK,12.0
+2026-11-25 07:58:32,GitHub,github.com,OK,31.0
+2026-11-25 07:58:37,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:58:37,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:58:37,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:58:37,Google,google.com,OK,15.0
+2026-11-25 07:58:37,YouTube,youtube.com,OK,11.0
+2026-11-25 07:58:37,GitHub,github.com,OK,30.0
+2026-11-25 07:58:43,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 07:58:43,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:58:43,Cloudflare DNS,1.1.1.1,OK,22.0
+2026-11-25 07:58:43,Google,google.com,OK,15.0
+2026-11-25 07:58:43,YouTube,youtube.com,OK,13.0
+2026-11-25 07:58:43,GitHub,github.com,OK,29.0
+2026-11-25 07:58:48,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:58:48,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:58:48,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:58:48,Google,google.com,OK,15.0
+2026-11-25 07:58:48,YouTube,youtube.com,OK,12.0
+2026-11-25 07:58:48,GitHub,github.com,OK,30.0
+2026-11-25 07:58:53,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 07:58:53,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:58:53,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:58:53,Google,google.com,OK,16.0
+2026-11-25 07:58:53,YouTube,youtube.com,OK,13.0
+2026-11-25 07:58:53,GitHub,github.com,OK,30.0
+2026-11-25 07:58:58,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:58:58,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:58:58,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:58:58,Google,google.com,OK,15.0
+2026-11-25 07:58:58,YouTube,youtube.com,OK,13.0
+2026-11-25 07:58:58,GitHub,github.com,OK,36.0
+2026-11-25 07:59:03,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:03,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:59:03,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:59:03,Google,google.com,OK,14.0
+2026-11-25 07:59:03,YouTube,youtube.com,OK,13.0
+2026-11-25 07:59:03,GitHub,github.com,OK,34.0
+2026-11-25 07:59:09,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:59:09,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:59:09,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:59:09,Google,google.com,OK,17.0
+2026-11-25 07:59:09,YouTube,youtube.com,OK,16.0
+2026-11-25 07:59:09,GitHub,github.com,OK,34.0
+2026-11-25 07:59:14,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:14,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:59:14,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 07:59:14,Google,google.com,OK,16.0
+2026-11-25 07:59:14,YouTube,youtube.com,OK,13.0
+2026-11-25 07:59:14,GitHub,github.com,OK,35.0
+2026-11-25 07:59:19,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:19,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:59:19,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:59:19,Google,google.com,OK,14.0
+2026-11-25 07:59:19,YouTube,youtube.com,OK,13.0
+2026-11-25 07:59:19,GitHub,github.com,OK,37.0
+2026-11-25 07:59:24,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:24,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 07:59:24,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:59:24,Google,google.com,OK,16.0
+2026-11-25 07:59:24,YouTube,youtube.com,OK,18.0
+2026-11-25 07:59:24,GitHub,github.com,OK,36.0
+2026-11-25 07:59:30,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:30,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:59:30,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 07:59:30,Google,google.com,OK,15.0
+2026-11-25 07:59:30,YouTube,youtube.com,OK,16.0
+2026-11-25 07:59:30,GitHub,github.com,OK,41.0
+2026-11-25 07:59:35,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:35,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:59:35,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 07:59:35,Google,google.com,OK,15.0
+2026-11-25 07:59:35,YouTube,youtube.com,OK,13.0
+2026-11-25 07:59:35,GitHub,github.com,OK,35.0
+2026-11-25 07:59:40,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:40,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:59:40,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:59:40,Google,google.com,OK,16.0
+2026-11-25 07:59:40,YouTube,youtube.com,OK,13.0
+2026-11-25 07:59:40,GitHub,github.com,OK,35.0
+2026-11-25 07:59:45,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:45,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 07:59:45,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:59:45,Google,google.com,OK,15.0
+2026-11-25 07:59:45,YouTube,youtube.com,OK,13.0
+2026-11-25 07:59:45,GitHub,github.com,OK,36.0
+2026-11-25 07:59:50,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 07:59:50,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 07:59:50,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:59:50,Google,google.com,OK,16.0
+2026-11-25 07:59:50,YouTube,youtube.com,OK,13.0
+2026-11-25 07:59:50,GitHub,github.com,OK,37.0
+2026-11-25 07:59:56,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 07:59:56,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 07:59:56,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 07:59:56,Google,google.com,OK,18.0
+2026-11-25 07:59:56,YouTube,youtube.com,OK,14.0
+2026-11-25 07:59:56,GitHub,github.com,OK,28.0
+2026-11-25 08:00:01,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:01,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:00:01,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:00:01,Google,google.com,OK,16.0
+2026-11-25 08:00:01,YouTube,youtube.com,OK,12.0
+2026-11-25 08:00:01,GitHub,github.com,OK,32.0
+2026-11-25 08:00:06,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:06,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:00:06,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:00:06,Google,google.com,OK,16.0
+2026-11-25 08:00:06,YouTube,youtube.com,OK,14.0
+2026-11-25 08:00:06,GitHub,github.com,OK,29.0
+2026-11-25 08:00:11,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:11,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:00:11,Cloudflare DNS,1.1.1.1,OK,21.0
+2026-11-25 08:00:11,Google,google.com,OK,19.0
+2026-11-25 08:00:11,YouTube,youtube.com,OK,25.0
+2026-11-25 08:00:11,GitHub,github.com,OK,30.0
+2026-11-25 08:00:17,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:17,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:00:17,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:00:17,Google,google.com,OK,16.0
+2026-11-25 08:00:17,YouTube,youtube.com,OK,16.0
+2026-11-25 08:00:17,GitHub,github.com,OK,31.0
+2026-11-25 08:00:22,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:00:22,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:00:22,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 08:00:22,Google,google.com,OK,18.0
+2026-11-25 08:00:22,YouTube,youtube.com,OK,14.0
+2026-11-25 08:00:22,GitHub,github.com,OK,29.0
+2026-11-25 08:00:27,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:27,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:00:27,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:00:27,Google,google.com,OK,19.0
+2026-11-25 08:00:27,YouTube,youtube.com,OK,13.0
+2026-11-25 08:00:27,GitHub,github.com,OK,28.0
+2026-11-25 08:00:32,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:32,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:00:32,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:00:32,Google,google.com,OK,16.0
+2026-11-25 08:00:32,YouTube,youtube.com,OK,16.0
+2026-11-25 08:00:32,GitHub,github.com,OK,32.0
+2026-11-25 08:00:37,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:00:37,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:00:37,Cloudflare DNS,1.1.1.1,OK,23.0
+2026-11-25 08:00:37,Google,google.com,OK,15.0
+2026-11-25 08:00:37,YouTube,youtube.com,OK,14.0
+2026-11-25 08:00:37,GitHub,github.com,OK,29.0
+2026-11-25 08:00:43,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:43,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:00:43,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:00:43,Google,google.com,OK,17.0
+2026-11-25 08:00:43,YouTube,youtube.com,OK,13.0
+2026-11-25 08:00:43,GitHub,github.com,OK,29.0
+2026-11-25 08:00:48,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 08:00:48,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:00:48,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:00:48,Google,google.com,OK,16.0
+2026-11-25 08:00:48,YouTube,youtube.com,OK,12.0
+2026-11-25 08:00:48,GitHub,github.com,OK,29.0
+2026-11-25 08:00:53,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:00:53,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:00:53,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:00:53,Google,google.com,OK,16.0
+2026-11-25 08:00:53,YouTube,youtube.com,OK,13.0
+2026-11-25 08:00:53,GitHub,github.com,OK,32.0
+2026-11-25 08:00:58,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:00:58,Google DNS,8.8.8.8,OK,20.0
+2026-11-25 08:00:58,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:00:58,Google,google.com,OK,24.0
+2026-11-25 08:00:58,YouTube,youtube.com,OK,12.0
+2026-11-25 08:00:58,GitHub,github.com,OK,39.0
+2026-11-25 08:01:04,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:01:04,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:01:04,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:01:04,Google,google.com,OK,16.0
+2026-11-25 08:01:04,YouTube,youtube.com,OK,14.0
+2026-11-25 08:01:04,GitHub,github.com,OK,30.0
+2026-11-25 08:01:09,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:09,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:01:09,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:01:09,Google,google.com,OK,16.0
+2026-11-25 08:01:09,YouTube,youtube.com,OK,13.0
+2026-11-25 08:01:09,GitHub,github.com,OK,28.0
+2026-11-25 08:01:14,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:14,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:01:14,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:01:14,Google,google.com,OK,15.0
+2026-11-25 08:01:14,YouTube,youtube.com,OK,12.0
+2026-11-25 08:01:14,GitHub,github.com,OK,29.0
+2026-11-25 08:01:19,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:19,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:01:19,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:01:19,Google,google.com,OK,16.0
+2026-11-25 08:01:19,YouTube,youtube.com,OK,19.0
+2026-11-25 08:01:19,GitHub,github.com,OK,27.0
+2026-11-25 08:01:24,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:24,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:01:24,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:01:24,Google,google.com,OK,16.0
+2026-11-25 08:01:24,YouTube,youtube.com,OK,13.0
+2026-11-25 08:01:24,GitHub,github.com,OK,30.0
+2026-11-25 08:01:30,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:30,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:01:30,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:01:30,Google,google.com,OK,15.0
+2026-11-25 08:01:30,YouTube,youtube.com,OK,13.0
+2026-11-25 08:01:30,GitHub,github.com,OK,29.0
+2026-11-25 08:01:35,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:01:35,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:01:35,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:01:35,Google,google.com,OK,14.0
+2026-11-25 08:01:35,YouTube,youtube.com,OK,17.0
+2026-11-25 08:01:35,GitHub,github.com,OK,29.0
+2026-11-25 08:01:40,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:01:40,Google DNS,8.8.8.8,OK,165.0
+2026-11-25 08:01:40,Cloudflare DNS,1.1.1.1,OK,23.0
+2026-11-25 08:01:40,Google,google.com,OK,27.0
+2026-11-25 08:01:40,YouTube,youtube.com,OK,35.0
+2026-11-25 08:01:40,GitHub,github.com,OK,36.0
+2026-11-25 08:01:46,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:46,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:01:46,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:01:46,Google,google.com,OK,15.0
+2026-11-25 08:01:46,YouTube,youtube.com,OK,13.0
+2026-11-25 08:01:46,GitHub,github.com,OK,28.0
+2026-11-25 08:01:51,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:51,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:01:51,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:01:51,Google,google.com,OK,15.0
+2026-11-25 08:01:51,YouTube,youtube.com,OK,14.0
+2026-11-25 08:01:51,GitHub,github.com,OK,28.0
+2026-11-25 08:01:56,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:01:56,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:01:56,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:01:56,Google,google.com,OK,15.0
+2026-11-25 08:01:56,YouTube,youtube.com,OK,11.0
+2026-11-25 08:01:56,GitHub,github.com,OK,32.0
+2026-11-25 08:02:01,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 08:02:01,Google DNS,8.8.8.8,OK,18.0
+2026-11-25 08:02:01,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:02:01,Google,google.com,OK,14.0
+2026-11-25 08:02:01,YouTube,youtube.com,OK,17.0
+2026-11-25 08:02:01,GitHub,github.com,OK,31.0
+2026-11-25 08:02:07,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:02:07,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:02:07,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:02:07,Google,google.com,OK,15.0
+2026-11-25 08:02:07,YouTube,youtube.com,OK,12.0
+2026-11-25 08:02:07,GitHub,github.com,OK,28.0
+2026-11-25 08:02:12,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:02:12,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:02:12,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 08:02:12,Google,google.com,OK,15.0
+2026-11-25 08:02:12,YouTube,youtube.com,OK,13.0
+2026-11-25 08:02:12,GitHub,github.com,OK,28.0
+2026-11-25 08:02:17,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:02:17,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:02:17,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:02:17,Google,google.com,OK,15.0
+2026-11-25 08:02:17,YouTube,youtube.com,OK,14.0
+2026-11-25 08:02:17,GitHub,github.com,OK,30.0
+2026-11-25 08:02:23,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 08:02:23,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:02:23,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:02:23,Google,google.com,OK,14.0
+2026-11-25 08:02:23,YouTube,youtube.com,OK,11.0
+2026-11-25 08:02:23,GitHub,github.com,OK,29.0
+2026-11-25 08:02:28,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:02:28,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:02:28,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:02:28,Google,google.com,OK,18.0
+2026-11-25 08:02:28,YouTube,youtube.com,OK,11.0
+2026-11-25 08:02:28,GitHub,github.com,OK,28.0
+2026-11-25 08:02:33,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:02:33,Google DNS,8.8.8.8,OK,31.0
+2026-11-25 08:02:33,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:02:33,Google,google.com,OK,20.0
+2026-11-25 08:02:33,YouTube,youtube.com,OK,15.0
+2026-11-25 08:02:33,GitHub,github.com,OK,27.0
+2026-11-25 08:02:39,Router (gateway),192.168.1.1,OK,22.0
+2026-11-25 08:02:39,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:02:39,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:02:39,Google,google.com,OK,14.0
+2026-11-25 08:02:39,YouTube,youtube.com,OK,11.0
+2026-11-25 08:02:39,GitHub,github.com,OK,29.0
+2026-11-25 08:02:44,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:02:44,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:02:44,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:02:44,Google,google.com,OK,18.0
+2026-11-25 08:02:44,YouTube,youtube.com,OK,12.0
+2026-11-25 08:02:44,GitHub,github.com,OK,29.0
+2026-11-25 08:02:49,Router (gateway),192.168.1.1,OK,18.0
+2026-11-25 08:02:49,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:02:49,Cloudflare DNS,1.1.1.1,OK,48.0
+2026-11-25 08:02:49,Google,google.com,OK,40.0
+2026-11-25 08:02:49,YouTube,youtube.com,OK,28.0
+2026-11-25 08:02:49,GitHub,github.com,OK,44.0
+2026-11-25 08:02:55,Router (gateway),192.168.1.1,OK,10.0
+2026-11-25 08:02:55,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:02:55,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:02:55,Google,google.com,OK,20.0
+2026-11-25 08:02:55,YouTube,youtube.com,OK,16.0
+2026-11-25 08:02:55,GitHub,github.com,OK,49.0
+2026-11-25 08:03:00,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:03:00,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:03:00,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:03:00,Google,google.com,OK,14.0
+2026-11-25 08:03:00,YouTube,youtube.com,OK,13.0
+2026-11-25 08:03:00,GitHub,github.com,OK,28.0
+2026-11-25 08:03:05,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:05,Google DNS,8.8.8.8,OK,21.0
+2026-11-25 08:03:05,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:03:05,Google,google.com,OK,14.0
+2026-11-25 08:03:05,YouTube,youtube.com,OK,12.0
+2026-11-25 08:03:05,GitHub,github.com,OK,27.0
+2026-11-25 08:03:10,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:10,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:03:10,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:03:10,Google,google.com,OK,14.0
+2026-11-25 08:03:10,YouTube,youtube.com,OK,12.0
+2026-11-25 08:03:10,GitHub,github.com,OK,28.0
+2026-11-25 08:03:16,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:16,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:03:16,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 08:03:16,Google,google.com,OK,14.0
+2026-11-25 08:03:16,YouTube,youtube.com,OK,14.0
+2026-11-25 08:03:16,GitHub,github.com,OK,28.0
+2026-11-25 08:03:21,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:21,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:03:21,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:03:21,Google,google.com,OK,14.0
+2026-11-25 08:03:21,YouTube,youtube.com,OK,11.0
+2026-11-25 08:03:21,GitHub,github.com,OK,28.0
+2026-11-25 08:03:26,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:26,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:03:26,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:03:26,Google,google.com,OK,13.0
+2026-11-25 08:03:26,YouTube,youtube.com,OK,12.0
+2026-11-25 08:03:26,GitHub,github.com,OK,29.0
+2026-11-25 08:03:31,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 08:03:31,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:03:31,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:03:31,Google,google.com,OK,15.0
+2026-11-25 08:03:31,YouTube,youtube.com,OK,13.0
+2026-11-25 08:03:31,GitHub,github.com,OK,34.0
+2026-11-25 08:03:37,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:37,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:03:37,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:03:37,Google,google.com,OK,14.0
+2026-11-25 08:03:37,YouTube,youtube.com,OK,13.0
+2026-11-25 08:03:37,GitHub,github.com,OK,29.0
+2026-11-25 08:03:42,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:42,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:03:42,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:03:42,Google,google.com,OK,14.0
+2026-11-25 08:03:42,YouTube,youtube.com,OK,12.0
+2026-11-25 08:03:42,GitHub,github.com,OK,31.0
+2026-11-25 08:03:47,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:47,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:03:47,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:03:47,Google,google.com,OK,15.0
+2026-11-25 08:03:47,YouTube,youtube.com,OK,18.0
+2026-11-25 08:03:47,GitHub,github.com,OK,28.0
+2026-11-25 08:03:52,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:03:52,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:03:52,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:03:52,Google,google.com,OK,16.0
+2026-11-25 08:03:52,YouTube,youtube.com,OK,15.0
+2026-11-25 08:03:52,GitHub,github.com,OK,28.0
+2026-11-25 08:03:57,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:03:57,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:03:57,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:03:57,Google,google.com,OK,14.0
+2026-11-25 08:03:57,YouTube,youtube.com,OK,13.0
+2026-11-25 08:03:57,GitHub,github.com,OK,29.0
+2026-11-25 08:04:03,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:04:03,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:04:03,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:04:03,Google,google.com,OK,17.0
+2026-11-25 08:04:03,YouTube,youtube.com,OK,11.0
+2026-11-25 08:04:03,GitHub,github.com,OK,28.0
+2026-11-25 08:04:08,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:04:08,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:04:08,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 08:04:08,Google,google.com,OK,14.0
+2026-11-25 08:04:08,YouTube,youtube.com,OK,11.0
+2026-11-25 08:04:08,GitHub,github.com,OK,28.0
+2026-11-25 08:04:13,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:04:13,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:04:13,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:04:13,Google,google.com,OK,14.0
+2026-11-25 08:04:13,YouTube,youtube.com,OK,14.0
+2026-11-25 08:04:13,GitHub,github.com,OK,29.0
+2026-11-25 08:04:18,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:04:18,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:04:18,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:04:18,Google,google.com,OK,17.0
+2026-11-25 08:04:18,YouTube,youtube.com,OK,15.0
+2026-11-25 08:04:18,GitHub,github.com,OK,30.0
+2026-11-25 08:04:24,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:04:24,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:04:24,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:04:24,Google,google.com,OK,15.0
+2026-11-25 08:04:24,YouTube,youtube.com,OK,11.0
+2026-11-25 08:04:24,GitHub,github.com,OK,29.0
+2026-11-25 08:04:29,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:04:29,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:04:29,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:04:29,Google,google.com,OK,14.0
+2026-11-25 08:04:29,YouTube,youtube.com,OK,11.0
+2026-11-25 08:04:29,GitHub,github.com,OK,28.0
+2026-11-25 08:04:34,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:04:34,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:04:34,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:04:34,Google,google.com,OK,14.0
+2026-11-25 08:04:34,YouTube,youtube.com,OK,12.0
+2026-11-25 08:04:34,GitHub,github.com,OK,35.0
+2026-11-25 08:04:39,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:04:39,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:04:39,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:04:39,Google,google.com,OK,14.0
+2026-11-25 08:04:39,YouTube,youtube.com,OK,11.0
+2026-11-25 08:04:39,GitHub,github.com,OK,35.0
+2026-11-25 08:04:45,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 08:04:45,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:04:45,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 08:04:45,Google,google.com,OK,20.0
+2026-11-25 08:04:45,YouTube,youtube.com,OK,13.0
+2026-11-25 08:04:45,GitHub,github.com,OK,37.0
+2026-11-25 08:04:50,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:04:50,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:04:50,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:04:50,Google,google.com,OK,15.0
+2026-11-25 08:04:50,YouTube,youtube.com,OK,12.0
+2026-11-25 08:04:50,GitHub,github.com,OK,37.0
+2026-11-25 08:04:55,Router (gateway),192.168.1.1,OK,9.0
+2026-11-25 08:04:55,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:04:55,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:04:55,Google,google.com,OK,14.0
+2026-11-25 08:04:55,YouTube,youtube.com,OK,27.0
+2026-11-25 08:04:55,GitHub,github.com,OK,33.0
+2026-11-25 08:05:00,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:05:00,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:05:00,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:05:00,Google,google.com,OK,14.0
+2026-11-25 08:05:00,YouTube,youtube.com,OK,11.0
+2026-11-25 08:05:00,GitHub,github.com,OK,33.0
+2026-11-25 08:05:06,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:05:06,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:05:06,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:05:06,Google,google.com,OK,17.0
+2026-11-25 08:05:06,YouTube,youtube.com,OK,14.0
+2026-11-25 08:05:06,GitHub,github.com,OK,35.0
+2026-11-25 08:05:11,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:05:11,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:05:11,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:05:11,Google,google.com,OK,17.0
+2026-11-25 08:05:11,YouTube,youtube.com,OK,12.0
+2026-11-25 08:05:11,GitHub,github.com,OK,34.0
+2026-11-25 08:05:16,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:05:16,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:05:16,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:05:16,Google,google.com,OK,14.0
+2026-11-25 08:05:16,YouTube,youtube.com,OK,12.0
+2026-11-25 08:05:16,GitHub,github.com,OK,33.0
+2026-11-25 08:05:21,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:05:21,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:05:21,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:05:21,Google,google.com,OK,16.0
+2026-11-25 08:05:21,YouTube,youtube.com,OK,12.0
+2026-11-25 08:05:21,GitHub,github.com,OK,34.0
+2026-11-25 08:05:26,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:05:26,Google DNS,8.8.8.8,OK,61.0
+2026-11-25 08:05:26,Cloudflare DNS,1.1.1.1,OK,22.0
+2026-11-25 08:05:26,Google,google.com,OK,14.0
+2026-11-25 08:05:26,YouTube,youtube.com,OK,22.0
+2026-11-25 08:05:26,GitHub,github.com,OK,33.0
+2026-11-25 08:05:32,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:05:32,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:05:32,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:05:32,Google,google.com,OK,15.0
+2026-11-25 08:05:32,YouTube,youtube.com,OK,11.0
+2026-11-25 08:05:32,GitHub,github.com,OK,34.0
+2026-11-25 08:05:37,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:05:37,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:05:37,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:05:37,Google,google.com,OK,16.0
+2026-11-25 08:05:37,YouTube,youtube.com,OK,13.0
+2026-11-25 08:05:37,GitHub,github.com,OK,32.0
+2026-11-25 08:05:42,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:05:42,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:05:42,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:05:42,Google,google.com,OK,14.0
+2026-11-25 08:05:42,YouTube,youtube.com,OK,12.0
+2026-11-25 08:05:42,GitHub,github.com,OK,32.0
+2026-11-25 08:05:48,Router (gateway),192.168.1.1,OK,7.0
+2026-11-25 08:05:48,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:05:48,Cloudflare DNS,1.1.1.1,OK,23.0
+2026-11-25 08:05:48,Google,google.com,OK,21.0
+2026-11-25 08:05:48,YouTube,youtube.com,OK,20.0
+2026-11-25 08:05:48,GitHub,github.com,OK,42.0
+2026-11-25 08:05:53,Router (gateway),192.168.1.1,OK,14.0
+2026-11-25 08:05:53,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:05:53,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:05:53,Google,google.com,OK,17.0
+2026-11-25 08:05:53,YouTube,youtube.com,OK,12.0
+2026-11-25 08:05:53,GitHub,github.com,OK,32.0
+2026-11-25 08:05:58,Router (gateway),192.168.1.1,OK,21.0
+2026-11-25 08:05:58,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:05:58,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:05:58,Google,google.com,OK,14.0
+2026-11-25 08:05:58,YouTube,youtube.com,OK,124.0
+2026-11-25 08:05:58,GitHub,github.com,OK,32.0
+2026-11-25 08:06:04,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:06:04,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:06:04,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:06:04,Google,google.com,OK,14.0
+2026-11-25 08:06:04,YouTube,youtube.com,OK,11.0
+2026-11-25 08:06:04,GitHub,github.com,OK,33.0
+2026-11-25 08:06:09,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:06:09,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:06:09,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:06:09,Google,google.com,OK,14.0
+2026-11-25 08:06:09,YouTube,youtube.com,OK,12.0
+2026-11-25 08:06:09,GitHub,github.com,OK,31.0
+2026-11-25 08:06:14,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:06:14,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:06:14,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:06:14,Google,google.com,OK,14.0
+2026-11-25 08:06:14,YouTube,youtube.com,OK,12.0
+2026-11-25 08:06:14,GitHub,github.com,OK,32.0
+2026-11-25 08:06:19,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:06:19,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:06:19,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:06:19,Google,google.com,OK,15.0
+2026-11-25 08:06:19,YouTube,youtube.com,OK,13.0
+2026-11-25 08:06:19,GitHub,github.com,OK,33.0
+2026-11-25 08:06:25,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:06:25,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:06:25,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:06:25,Google,google.com,OK,15.0
+2026-11-25 08:06:25,YouTube,youtube.com,OK,11.0
+2026-11-25 08:06:25,GitHub,github.com,OK,32.0
+2026-11-25 08:06:30,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:06:30,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:06:30,Cloudflare DNS,1.1.1.1,OK,13.0
+2026-11-25 08:06:30,Google,google.com,OK,13.0
+2026-11-25 08:06:30,YouTube,youtube.com,OK,11.0
+2026-11-25 08:06:30,GitHub,github.com,OK,30.0
+2026-11-25 08:06:35,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:06:35,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:06:35,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:06:35,Google,google.com,OK,14.0
+2026-11-25 08:06:35,YouTube,youtube.com,OK,17.0
+2026-11-25 08:06:35,GitHub,github.com,OK,31.0
+2026-11-25 08:06:40,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:06:40,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:06:40,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:06:40,Google,google.com,OK,14.0
+2026-11-25 08:06:40,YouTube,youtube.com,OK,12.0
+2026-11-25 08:06:40,GitHub,github.com,OK,32.0
+2026-11-25 08:06:46,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:06:46,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:06:46,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:06:46,Google,google.com,OK,15.0
+2026-11-25 08:06:46,YouTube,youtube.com,OK,12.0
+2026-11-25 08:06:46,GitHub,github.com,OK,30.0
+2026-11-25 08:06:51,Router (gateway),192.168.1.1,OK,25.0
+2026-11-25 08:06:51,Google DNS,8.8.8.8,OK,102.0
+2026-11-25 08:06:51,Cloudflare DNS,1.1.1.1,OK,96.0
+2026-11-25 08:06:51,Google,google.com,OK,16.0
+2026-11-25 08:06:51,YouTube,youtube.com,OK,12.0
+2026-11-25 08:06:51,GitHub,github.com,OK,32.0
+2026-11-25 08:06:56,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:06:56,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:06:56,Cloudflare DNS,1.1.1.1,OK,25.0
+2026-11-25 08:06:56,Google,google.com,OK,14.0
+2026-11-25 08:06:56,YouTube,youtube.com,OK,13.0
+2026-11-25 08:06:56,GitHub,github.com,OK,30.0
+2026-11-25 08:07:01,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:07:01,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:07:01,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:07:01,Google,google.com,OK,16.0
+2026-11-25 08:07:01,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:01,GitHub,github.com,OK,36.0
+2026-11-25 08:07:07,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:07:07,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:07:07,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:07:07,Google,google.com,OK,14.0
+2026-11-25 08:07:07,YouTube,youtube.com,OK,13.0
+2026-11-25 08:07:07,GitHub,github.com,OK,32.0
+2026-11-25 08:07:12,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 08:07:12,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:07:12,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:07:12,Google,google.com,OK,16.0
+2026-11-25 08:07:12,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:12,GitHub,github.com,OK,30.0
+2026-11-25 08:07:17,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:07:17,Google DNS,8.8.8.8,OK,24.0
+2026-11-25 08:07:17,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:07:17,Google,google.com,OK,21.0
+2026-11-25 08:07:17,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:17,GitHub,github.com,OK,30.0
+2026-11-25 08:07:23,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:07:23,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:07:23,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:07:23,Google,google.com,OK,17.0
+2026-11-25 08:07:23,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:23,GitHub,github.com,OK,32.0
+2026-11-25 08:07:28,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:07:28,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:07:28,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:07:28,Google,google.com,OK,15.0
+2026-11-25 08:07:28,YouTube,youtube.com,OK,11.0
+2026-11-25 08:07:28,GitHub,github.com,OK,31.0
+2026-11-25 08:07:33,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:07:33,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:07:33,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:07:33,Google,google.com,OK,20.0
+2026-11-25 08:07:33,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:33,GitHub,github.com,OK,31.0
+2026-11-25 08:07:39,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:07:39,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:07:39,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:07:39,Google,google.com,OK,14.0
+2026-11-25 08:07:39,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:39,GitHub,github.com,OK,35.0
+2026-11-25 08:07:44,Router (gateway),192.168.1.1,OK,11.0
+2026-11-25 08:07:44,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:07:44,Cloudflare DNS,1.1.1.1,OK,22.0
+2026-11-25 08:07:44,Google,google.com,OK,16.0
+2026-11-25 08:07:44,YouTube,youtube.com,OK,11.0
+2026-11-25 08:07:44,GitHub,github.com,OK,34.0
+2026-11-25 08:07:49,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:07:49,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:07:49,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:07:49,Google,google.com,OK,14.0
+2026-11-25 08:07:49,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:49,GitHub,github.com,OK,32.0
+2026-11-25 08:07:54,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:07:54,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:07:54,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:07:54,Google,google.com,OK,15.0
+2026-11-25 08:07:54,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:54,GitHub,github.com,OK,32.0
+2026-11-25 08:07:59,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:07:59,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:07:59,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:07:59,Google,google.com,OK,14.0
+2026-11-25 08:07:59,YouTube,youtube.com,OK,12.0
+2026-11-25 08:07:59,GitHub,github.com,OK,34.0
+2026-11-25 08:08:05,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:08:05,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:08:05,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:08:05,Google,google.com,OK,16.0
+2026-11-25 08:08:05,YouTube,youtube.com,OK,16.0
+2026-11-25 08:08:05,GitHub,github.com,OK,32.0
+2026-11-25 08:08:10,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:08:10,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:08:10,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:08:10,Google,google.com,OK,14.0
+2026-11-25 08:08:10,YouTube,youtube.com,OK,14.0
+2026-11-25 08:08:10,GitHub,github.com,OK,36.0
+2026-11-25 08:08:15,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:08:15,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:08:15,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 08:08:15,Google,google.com,OK,41.0
+2026-11-25 08:08:15,YouTube,youtube.com,OK,17.0
+2026-11-25 08:08:15,GitHub,github.com,OK,32.0
+2026-11-25 08:08:20,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:08:20,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:08:20,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:08:20,Google,google.com,OK,15.0
+2026-11-25 08:08:20,YouTube,youtube.com,OK,15.0
+2026-11-25 08:08:20,GitHub,github.com,OK,26.0
+2026-11-25 08:08:26,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:08:26,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:08:26,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:08:26,Google,google.com,OK,14.0
+2026-11-25 08:08:26,YouTube,youtube.com,OK,51.0
+2026-11-25 08:08:26,GitHub,github.com,OK,51.0
+2026-11-25 08:08:31,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:08:31,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:08:31,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:08:31,Google,google.com,OK,17.0
+2026-11-25 08:08:31,YouTube,youtube.com,OK,11.0
+2026-11-25 08:08:31,GitHub,github.com,OK,27.0
+2026-11-25 08:08:36,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:08:36,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:08:36,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:08:36,Google,google.com,OK,16.0
+2026-11-25 08:08:36,YouTube,youtube.com,OK,16.0
+2026-11-25 08:08:36,GitHub,github.com,OK,28.0
+2026-11-25 08:08:41,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:08:41,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:08:41,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:08:41,Google,google.com,OK,15.0
+2026-11-25 08:08:41,YouTube,youtube.com,OK,14.0
+2026-11-25 08:08:41,GitHub,github.com,OK,26.0
+2026-11-25 08:08:46,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:08:46,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 08:08:46,Cloudflare DNS,1.1.1.1,OK,18.0
+2026-11-25 08:08:46,Google,google.com,OK,16.0
+2026-11-25 08:08:46,YouTube,youtube.com,OK,12.0
+2026-11-25 08:08:46,GitHub,github.com,OK,28.0
+2026-11-25 08:08:52,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:08:52,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:08:52,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:08:52,Google,google.com,OK,15.0
+2026-11-25 08:08:52,YouTube,youtube.com,OK,13.0
+2026-11-25 08:08:52,GitHub,github.com,OK,36.0
+2026-11-25 08:08:57,Router (gateway),192.168.1.1,OK,3.0
+2026-11-25 08:08:57,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:08:57,Cloudflare DNS,1.1.1.1,OK,24.0
+2026-11-25 08:08:57,Google,google.com,OK,58.0
+2026-11-25 08:08:57,YouTube,youtube.com,OK,13.0
+2026-11-25 08:08:57,GitHub,github.com,OK,34.0
+2026-11-25 08:09:02,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:02,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:09:02,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:09:02,Google,google.com,OK,14.0
+2026-11-25 08:09:02,YouTube,youtube.com,OK,12.0
+2026-11-25 08:09:02,GitHub,github.com,OK,34.0
+2026-11-25 08:09:07,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:07,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:09:07,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:09:07,Google,google.com,OK,14.0
+2026-11-25 08:09:07,YouTube,youtube.com,OK,14.0
+2026-11-25 08:09:07,GitHub,github.com,OK,36.0
+2026-11-25 08:09:13,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:13,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:09:13,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:09:13,Google,google.com,OK,15.0
+2026-11-25 08:09:13,YouTube,youtube.com,OK,13.0
+2026-11-25 08:09:13,GitHub,github.com,OK,38.0
+2026-11-25 08:09:18,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:18,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:09:18,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:09:18,Google,google.com,OK,16.0
+2026-11-25 08:09:18,YouTube,youtube.com,OK,13.0
+2026-11-25 08:09:18,GitHub,github.com,OK,29.0
+2026-11-25 08:09:23,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:23,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:09:23,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:09:23,Google,google.com,OK,16.0
+2026-11-25 08:09:23,YouTube,youtube.com,OK,12.0
+2026-11-25 08:09:23,GitHub,github.com,OK,29.0
+2026-11-25 08:09:28,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:28,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:09:28,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:09:28,Google,google.com,OK,14.0
+2026-11-25 08:09:28,YouTube,youtube.com,OK,12.0
+2026-11-25 08:09:28,GitHub,github.com,OK,50.0
+2026-11-25 08:09:33,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:33,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:09:33,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:09:33,Google,google.com,OK,15.0
+2026-11-25 08:09:33,YouTube,youtube.com,OK,12.0
+2026-11-25 08:09:33,GitHub,github.com,OK,28.0
+2026-11-25 08:09:39,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:39,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:09:39,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:09:39,Google,google.com,OK,16.0
+2026-11-25 08:09:39,YouTube,youtube.com,OK,15.0
+2026-11-25 08:09:39,GitHub,github.com,OK,27.0
+2026-11-25 08:09:44,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:44,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:09:44,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:09:44,Google,google.com,OK,15.0
+2026-11-25 08:09:44,YouTube,youtube.com,OK,13.0
+2026-11-25 08:09:44,GitHub,github.com,OK,27.0
+2026-11-25 08:09:49,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:49,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:09:49,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:09:49,Google,google.com,OK,16.0
+2026-11-25 08:09:49,YouTube,youtube.com,OK,14.0
+2026-11-25 08:09:49,GitHub,github.com,OK,27.0
+2026-11-25 08:09:54,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:09:54,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:09:54,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:09:54,Google,google.com,OK,14.0
+2026-11-25 08:09:54,YouTube,youtube.com,OK,12.0
+2026-11-25 08:09:54,GitHub,github.com,OK,28.0
+2026-11-25 08:09:59,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:09:59,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:09:59,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:09:59,Google,google.com,OK,14.0
+2026-11-25 08:09:59,YouTube,youtube.com,OK,11.0
+2026-11-25 08:09:59,GitHub,github.com,OK,29.0
+2026-11-25 08:10:05,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:05,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:10:05,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:10:05,Google,google.com,OK,16.0
+2026-11-25 08:10:05,YouTube,youtube.com,OK,13.0
+2026-11-25 08:10:05,GitHub,github.com,OK,29.0
+2026-11-25 08:10:10,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:10:10,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:10:10,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:10:10,Google,google.com,OK,14.0
+2026-11-25 08:10:10,YouTube,youtube.com,OK,12.0
+2026-11-25 08:10:10,GitHub,github.com,OK,27.0
+2026-11-25 08:10:15,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 08:10:15,Google DNS,8.8.8.8,OK,16.0
+2026-11-25 08:10:15,Cloudflare DNS,1.1.1.1,OK,27.0
+2026-11-25 08:10:15,Google,google.com,OK,15.0
+2026-11-25 08:10:15,YouTube,youtube.com,OK,16.0
+2026-11-25 08:10:15,GitHub,github.com,OK,46.0
+2026-11-25 08:10:20,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:20,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:10:20,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:10:20,Google,google.com,OK,14.0
+2026-11-25 08:10:20,YouTube,youtube.com,OK,12.0
+2026-11-25 08:10:20,GitHub,github.com,OK,36.0
+2026-11-25 08:10:25,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:25,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:10:25,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:10:25,Google,google.com,OK,14.0
+2026-11-25 08:10:25,YouTube,youtube.com,OK,13.0
+2026-11-25 08:10:25,GitHub,github.com,OK,34.0
+2026-11-25 08:10:31,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:31,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:10:31,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:10:31,Google,google.com,OK,14.0
+2026-11-25 08:10:31,YouTube,youtube.com,OK,12.0
+2026-11-25 08:10:31,GitHub,github.com,OK,36.0
+2026-11-25 08:10:36,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:36,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:10:36,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:10:36,Google,google.com,OK,14.0
+2026-11-25 08:10:36,YouTube,youtube.com,OK,13.0
+2026-11-25 08:10:36,GitHub,github.com,OK,36.0
+2026-11-25 08:10:41,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:41,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:10:41,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:10:41,Google,google.com,OK,15.0
+2026-11-25 08:10:41,YouTube,youtube.com,OK,13.0
+2026-11-25 08:10:41,GitHub,github.com,OK,36.0
+2026-11-25 08:10:46,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:46,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:10:46,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:10:46,Google,google.com,OK,14.0
+2026-11-25 08:10:46,YouTube,youtube.com,OK,12.0
+2026-11-25 08:10:46,GitHub,github.com,OK,35.0
+2026-11-25 08:10:51,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:51,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:10:51,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:10:51,Google,google.com,OK,14.0
+2026-11-25 08:10:51,YouTube,youtube.com,OK,13.0
+2026-11-25 08:10:51,GitHub,github.com,OK,36.0
+2026-11-25 08:10:57,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:10:57,Google DNS,8.8.8.8,LOST,
+2026-11-25 08:10:57,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:10:57,Google,google.com,OK,15.0
+2026-11-25 08:10:57,YouTube,youtube.com,OK,13.0
+2026-11-25 08:10:57,GitHub,github.com,OK,35.0
+2026-11-25 08:11:06,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:06,Google DNS,8.8.8.8,OK,40.0
+2026-11-25 08:11:06,Cloudflare DNS,1.1.1.1,OK,19.0
+2026-11-25 08:11:06,Google,google.com,OK,40.0
+2026-11-25 08:11:06,YouTube,youtube.com,OK,14.0
+2026-11-25 08:11:06,GitHub,github.com,OK,77.0
+2026-11-25 08:11:11,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:11,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:11:11,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:11:11,Google,google.com,OK,16.0
+2026-11-25 08:11:11,YouTube,youtube.com,OK,13.0
+2026-11-25 08:11:11,GitHub,github.com,OK,28.0
+2026-11-25 08:11:16,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:16,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:11:16,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:11:16,Google,google.com,OK,15.0
+2026-11-25 08:11:16,YouTube,youtube.com,OK,12.0
+2026-11-25 08:11:16,GitHub,github.com,OK,28.0
+2026-11-25 08:11:21,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:21,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:11:21,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:11:21,Google,google.com,OK,13.0
+2026-11-25 08:11:21,YouTube,youtube.com,OK,13.0
+2026-11-25 08:11:21,GitHub,github.com,OK,29.0
+2026-11-25 08:11:27,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:27,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:11:27,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:11:27,Google,google.com,OK,15.0
+2026-11-25 08:11:27,YouTube,youtube.com,OK,12.0
+2026-11-25 08:11:27,GitHub,github.com,OK,27.0
+2026-11-25 08:11:32,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:32,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:11:32,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:11:32,Google,google.com,OK,16.0
+2026-11-25 08:11:32,YouTube,youtube.com,OK,12.0
+2026-11-25 08:11:32,GitHub,github.com,OK,27.0
+2026-11-25 08:11:37,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:37,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:11:37,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:11:37,Google,google.com,OK,15.0
+2026-11-25 08:11:37,YouTube,youtube.com,OK,12.0
+2026-11-25 08:11:37,GitHub,github.com,OK,27.0
+2026-11-25 08:11:42,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:42,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:11:42,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:11:42,Google,google.com,OK,14.0
+2026-11-25 08:11:42,YouTube,youtube.com,OK,12.0
+2026-11-25 08:11:42,GitHub,github.com,OK,27.0
+2026-11-25 08:11:47,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:47,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:11:47,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:11:47,Google,google.com,OK,15.0
+2026-11-25 08:11:47,YouTube,youtube.com,OK,11.0
+2026-11-25 08:11:47,GitHub,github.com,OK,29.0
+2026-11-25 08:11:53,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:53,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:11:53,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:11:53,Google,google.com,OK,15.0
+2026-11-25 08:11:53,YouTube,youtube.com,OK,12.0
+2026-11-25 08:11:53,GitHub,github.com,OK,27.0
+2026-11-25 08:11:58,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:11:58,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:11:58,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:11:58,Google,google.com,OK,14.0
+2026-11-25 08:11:58,YouTube,youtube.com,OK,11.0
+2026-11-25 08:11:58,GitHub,github.com,OK,27.0
+2026-11-25 08:12:03,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:03,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:12:03,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:12:03,Google,google.com,OK,14.0
+2026-11-25 08:12:03,YouTube,youtube.com,OK,12.0
+2026-11-25 08:12:03,GitHub,github.com,OK,27.0
+2026-11-25 08:12:08,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:08,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:08,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:12:08,Google,google.com,OK,16.0
+2026-11-25 08:12:08,YouTube,youtube.com,OK,13.0
+2026-11-25 08:12:08,GitHub,github.com,OK,28.0
+2026-11-25 08:12:13,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:13,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:13,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:12:13,Google,google.com,OK,14.0
+2026-11-25 08:12:13,YouTube,youtube.com,OK,12.0
+2026-11-25 08:12:13,GitHub,github.com,OK,27.0
+2026-11-25 08:12:19,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:19,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:19,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:12:19,Google,google.com,OK,14.0
+2026-11-25 08:12:19,YouTube,youtube.com,OK,13.0
+2026-11-25 08:12:19,GitHub,github.com,OK,27.0
+2026-11-25 08:12:24,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:24,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:24,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:12:24,Google,google.com,OK,14.0
+2026-11-25 08:12:24,YouTube,youtube.com,OK,14.0
+2026-11-25 08:12:24,GitHub,github.com,OK,27.0
+2026-11-25 08:12:29,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:29,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:12:29,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:12:29,Google,google.com,OK,14.0
+2026-11-25 08:12:29,YouTube,youtube.com,OK,12.0
+2026-11-25 08:12:29,GitHub,github.com,OK,26.0
+2026-11-25 08:12:34,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:12:34,Google DNS,8.8.8.8,OK,22.0
+2026-11-25 08:12:34,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:12:34,Google,google.com,OK,28.0
+2026-11-25 08:12:34,YouTube,youtube.com,OK,12.0
+2026-11-25 08:12:34,GitHub,github.com,OK,28.0
+2026-11-25 08:12:39,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:39,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:39,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:12:39,Google,google.com,OK,14.0
+2026-11-25 08:12:39,YouTube,youtube.com,OK,19.0
+2026-11-25 08:12:39,GitHub,github.com,OK,28.0
+2026-11-25 08:12:45,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:45,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:45,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:12:45,Google,google.com,OK,14.0
+2026-11-25 08:12:45,YouTube,youtube.com,OK,13.0
+2026-11-25 08:12:45,GitHub,github.com,OK,30.0
+2026-11-25 08:12:50,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:50,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:50,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:12:50,Google,google.com,OK,15.0
+2026-11-25 08:12:50,YouTube,youtube.com,OK,12.0
+2026-11-25 08:12:50,GitHub,github.com,OK,36.0
+2026-11-25 08:12:55,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:12:55,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:12:55,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:12:55,Google,google.com,OK,14.0
+2026-11-25 08:12:55,YouTube,youtube.com,OK,12.0
+2026-11-25 08:12:55,GitHub,github.com,OK,30.0
+2026-11-25 08:13:00,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:13:00,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:13:00,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:13:00,Google,google.com,OK,14.0
+2026-11-25 08:13:00,YouTube,youtube.com,OK,12.0
+2026-11-25 08:13:00,GitHub,github.com,OK,29.0
+2026-11-25 08:13:05,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:13:05,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:13:05,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:13:05,Google,google.com,OK,16.0
+2026-11-25 08:13:05,YouTube,youtube.com,OK,14.0
+2026-11-25 08:13:05,GitHub,github.com,OK,36.0
+2026-11-25 08:13:11,Router (gateway),192.168.1.1,OK,5.0
+2026-11-25 08:13:11,Google DNS,8.8.8.8,OK,15.0
+2026-11-25 08:13:11,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:13:11,Google,google.com,OK,17.0
+2026-11-25 08:13:11,YouTube,youtube.com,OK,13.0
+2026-11-25 08:13:11,GitHub,github.com,OK,35.0
+2026-11-25 08:13:16,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:13:16,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:13:16,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:13:16,Google,google.com,OK,16.0
+2026-11-25 08:13:16,YouTube,youtube.com,OK,16.0
+2026-11-25 08:13:16,GitHub,github.com,OK,36.0
+2026-11-25 08:13:21,Router (gateway),192.168.1.1,OK,8.0
+2026-11-25 08:13:21,Google DNS,8.8.8.8,OK,17.0
+2026-11-25 08:13:21,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:13:21,Google,google.com,OK,14.0
+2026-11-25 08:13:21,YouTube,youtube.com,OK,12.0
+2026-11-25 08:13:21,GitHub,github.com,OK,35.0
+2026-11-25 08:13:27,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:13:27,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:13:27,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:13:27,Google,google.com,OK,16.0
+2026-11-25 08:13:27,YouTube,youtube.com,OK,17.0
+2026-11-25 08:13:27,GitHub,github.com,OK,34.0
+2026-11-25 08:13:32,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 08:13:32,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:13:32,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:13:32,Google,google.com,OK,18.0
+2026-11-25 08:13:32,YouTube,youtube.com,OK,12.0
+2026-11-25 08:13:32,GitHub,github.com,OK,36.0
+2026-11-25 08:13:37,Router (gateway),192.168.1.1,OK,4.0
+2026-11-25 08:13:37,Google DNS,8.8.8.8,OK,12.0
+2026-11-25 08:13:37,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:13:37,Google,google.com,OK,15.0
+2026-11-25 08:13:37,YouTube,youtube.com,OK,14.0
+2026-11-25 08:13:37,GitHub,github.com,OK,34.0
+2026-11-25 08:13:42,Router (gateway),192.168.1.1,OK,2.0
+2026-11-25 08:13:42,Google DNS,8.8.8.8,OK,19.0
+2026-11-25 08:13:42,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:13:42,Google,google.com,OK,14.0
+2026-11-25 08:13:42,YouTube,youtube.com,OK,27.0
+2026-11-25 08:13:42,GitHub,github.com,OK,36.0
+2026-11-25 08:13:48,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:13:48,Google DNS,8.8.8.8,OK,19.0
+2026-11-25 08:13:48,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:13:48,Google,google.com,OK,27.0
+2026-11-25 08:13:48,YouTube,youtube.com,OK,17.0
+2026-11-25 08:13:48,GitHub,github.com,OK,36.0
+2026-11-25 08:13:53,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:13:53,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:13:53,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:13:53,Google,google.com,OK,16.0
+2026-11-25 08:13:53,YouTube,youtube.com,OK,13.0
+2026-11-25 08:13:53,GitHub,github.com,OK,34.0
+2026-11-25 08:13:58,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:13:58,Google DNS,8.8.8.8,OK,14.0
+2026-11-25 08:13:58,Cloudflare DNS,1.1.1.1,OK,15.0
+2026-11-25 08:13:58,Google,google.com,OK,16.0
+2026-11-25 08:13:58,YouTube,youtube.com,OK,13.0
+2026-11-25 08:13:58,GitHub,github.com,OK,36.0
+2026-11-25 08:14:03,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:14:03,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:14:03,Cloudflare DNS,1.1.1.1,OK,17.0
+2026-11-25 08:14:03,Google,google.com,OK,15.0
+2026-11-25 08:14:03,YouTube,youtube.com,OK,12.0
+2026-11-25 08:14:03,GitHub,github.com,OK,27.0
+2026-11-25 08:14:09,Router (gateway),192.168.1.1,OK,6.0
+2026-11-25 08:14:09,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:14:09,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:14:09,Google,google.com,OK,14.0
+2026-11-25 08:14:09,YouTube,youtube.com,OK,11.0
+2026-11-25 08:14:09,GitHub,github.com,OK,29.0
+2026-11-25 08:14:14,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:14:14,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:14:14,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:14:14,Google,google.com,OK,22.0
+2026-11-25 08:14:14,YouTube,youtube.com,OK,17.0
+2026-11-25 08:14:14,GitHub,github.com,OK,27.0
+2026-11-25 08:14:19,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:14:19,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:14:19,Cloudflare DNS,1.1.1.1,OK,14.0
+2026-11-25 08:14:19,Google,google.com,OK,16.0
+2026-11-25 08:14:19,YouTube,youtube.com,OK,14.0
+2026-11-25 08:14:19,GitHub,github.com,OK,28.0
+2026-11-25 08:14:24,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:14:24,Google DNS,8.8.8.8,OK,11.0
+2026-11-25 08:14:24,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:14:24,Google,google.com,OK,15.0
+2026-11-25 08:14:24,YouTube,youtube.com,OK,17.0
+2026-11-25 08:14:24,GitHub,github.com,OK,30.0
+2026-11-25 08:14:30,Router (gateway),192.168.1.1,OK,1.0
+2026-11-25 08:14:30,Google DNS,8.8.8.8,OK,13.0
+2026-11-25 08:14:30,Cloudflare DNS,1.1.1.1,OK,16.0
+2026-11-25 08:14:30,Google,google.com,OK,15.0
+2026-11-25 08:14:30,YouTube,youtube.com,OK,13.0
+2026-11-25 08:14:30,GitHub,github.com,OK,27.0
